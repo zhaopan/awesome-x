@@ -12,44 +12,44 @@
 
 ## 目录结构
 
-- [getting-started/](getting-started/) — 账号起号与定位
-  - [账号定位指南](getting-started/account-positioning.md)
-  - [个人资料优化](getting-started/profile-optimization.md)
-  - [前30天运营指南](getting-started/first-30-days.md)
-  - [避坑指南](getting-started/pitfalls-to-avoid.md)
+- [01-started/](01-started/) — 账号起号与定位
+  - [01-01 账号定位指南](01-started/01-01-account-positioning.md)
+  - [01-02 个人资料优化](01-started/01-02-profile-optimization.md)
+  - [01-03 前30天运营指南](01-started/01-03-first-30-days.md)
+  - [01-04 避坑指南](01-started/01-04-pitfalls-to-avoid.md)
 
-- [content-creation/](content-creation/) — 内容创作体系
-  - [推文类型指南](content-creation/tweet-types.md)
-  - [内容创作模板库](content-creation/templates.md)
-  - [发布时间与频率指南](content-creation/posting-schedule.md)
-  - [高互动内容公式](content-creation/high-engagement-formula.md)
-  - [标签策略](content-creation/hashtag-strategy.md)
+- [02-content/](02-content/) — 内容创作体系
+  - [02-01 推文类型指南](02-content/02-01-tweet-types.md)
+  - [02-02 内容创作模板库](02-content/02-02-templates.md)
+  - [02-03 发布时间与频率指南](02-content/02-03-posting-schedule.md)
+  - [02-04 高互动内容公式](02-content/02-04-high-engagement-formula.md)
+  - [02-05 标签策略](02-content/02-05-hashtag-strategy.md)
 
-- [engagement/](engagement/) — 互动管理
-  - [评论管理策略](engagement/comment-management.md)
-  - [回复模板库](engagement/reply-templates.md)
+- [03-engagement/](03-engagement/) — 互动管理
+  - [03-01 评论管理策略](03-engagement/03-01-comment-management.md)
+  - [03-02 回复模板库](03-engagement/03-02-reply-templates.md)
 
-- [growth/](growth/) — 流量增长
-  - [有机增长策略](growth/organic-growth.md)
-  - [算法优化指南](growth/algorithm-optimization.md)
+- [04-growth/](04-growth/) — 流量增长
+  - [04-01 有机增长策略](04-growth/04-01-organic-growth.md)
+  - [04-02 算法优化指南](04-growth/04-02-algorithm-optimization.md)
 
-- [analytics/](analytics/) — 数据分析
-  - [关键指标定义](analytics/key-metrics.md)
-  - [效果评估框架](analytics/evaluation-framework.md)
+- [05-analytics/](05-analytics/) — 数据分析
+  - [05-01 关键指标定义](05-analytics/05-01-key-metrics.md)
+  - [05-02 效果评估框架](05-analytics/05-02-evaluation-framework.md)
 
-- [resources/](resources/) — 运营资源
-  - [可复制文本模板](resources/text-templates.md)
-  - [案例分析](resources/case-studies.md)
-  - [工具推荐](resources/tools-recommendation.md)
+- [06-resources/](06-resources/) — 运营资源
+  - [06-01 可复制文本模板](06-resources/06-01-text-templates.md)
+  - [06-02 案例分析](06-resources/06-02-case-studies.md)
+  - [06-03 工具推荐](06-resources/06-03-tools-recommendation.md)
 
 ## 快速开始
 
-1. **新手？** 从 [getting-started/](getting-started/) 开始
-2. **想提升内容？** 查看 [content-creation/](content-creation/)
-3. **想增加互动？** 查看 [engagement/](engagement/)
-4. **想增长流量？** 查看 [growth/](growth/)
-5. **想分析数据？** 查看 [analytics/](analytics/)
-6. **找模板？** 查看 [resources/](resources/)
+1. **新手？** 从 [01-started/](01-started/README.md) 开始
+2. **想提升内容？** 查看 [02-content/](02-content/README.md)
+3. **想增加互动？** 查看 [03-engagement/](03-engagement/README.md)
+4. **想增长流量？** 查看 [04-growth/](04-growth/README.md)
+5. **想分析数据？** 查看 [05-analytics/](05-analytics/README.md)
+6. **找模板？** 查看 [06-resources/](06-resources/README.md)
 
 ## 适合谁
 
