@@ -2,6 +2,10 @@
 
 ## 2026/07/07
 
+### 11. 学习总结文档
+
+- 添加 01-started 学习总结（01-started/01-99-learning-summary.md）
+
 ### 10. 目录结构优化
 
 - 为所有目录添加编号前缀（01-started, 02-content, 03-engagement, 04-growth, 05-analytics, 06-resources）
@@ -78,4 +82,4 @@
 
 ---
 
-*最后更新：2026/07/07*
+_最后更新：2026/07/07_
