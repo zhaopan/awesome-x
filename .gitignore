@@ -1,0 +1,17 @@
+# Editor/IDE
+.zed/
+
+# AGI
+.claude/
+.agents/
+.gemini/
+.planning/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
