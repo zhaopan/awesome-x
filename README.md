@@ -1,14 +1,14 @@
 # X (Twitter) 运营指南
 
-一个面向有经验 X 运营者的实操型知识库，提供系统化的流量增长、内容创作和互动管理策略。
+一个学习笔记，记录 X 运营的实践经验和踩坑教训。
 
 ## 这是什么
 
-本指南聚焦具体可执行的操作步骤和模板，帮助运营者实现可持续的粉丝增长。无论你是个人创作者还是企业账号运营者，都能在这里找到可直接使用的运营方法。
+这是我学习 X 运营过程中整理的笔记，包含一些实操步骤和模板。内容来自互联网公开资源和实践总结，不一定适合所有人，仅供参考。
 
-## 核心价值
+## 为什么做这个
 
-帮助有经验的 X 运营者突破增长瓶颈，通过系统化的实操指南实现可持续的粉丝增长。
+在学习 X 运营的过程中，发现很多信息比较分散，就想着整理一下，方便自己回顾，也希望能帮到同样在学习的朋友。
 
 ## 目录结构
 
@@ -19,26 +19,28 @@
   - [避坑指南](getting-started/pitfalls-to-avoid.md)
 
 - [content-creation/](content-creation/) — 内容创作体系
-  - 推文类型指南
-  - 内容创作模板库
-  - 发布时间与频率指南
+  - [推文类型指南](content-creation/tweet-types.md)
+  - [内容创作模板库](content-creation/templates.md)
+  - [发布时间与频率指南](content-creation/posting-schedule.md)
+  - [高互动内容公式](content-creation/high-engagement-formula.md)
+  - [标签策略](content-creation/hashtag-strategy.md)
 
 - [engagement/](engagement/) — 互动管理
-  - 评论管理策略
-  - 回复模板库
+  - [评论管理策略](engagement/comment-management.md)
+  - [回复模板库](engagement/reply-templates.md)
 
 - [growth/](growth/) — 流量增长
-  - 有机增长策略
-  - 算法优化指南
+  - [有机增长策略](growth/organic-growth.md)
+  - [算法优化指南](growth/algorithm-optimization.md)
 
 - [analytics/](analytics/) — 数据分析
-  - 关键指标定义
-  - 效果评估框架
+  - [关键指标定义](analytics/key-metrics.md)
+  - [效果评估框架](analytics/evaluation-framework.md)
 
 - [resources/](resources/) — 运营资源
-  - 可复制文本模板
-  - 案例分析
-  - 工具推荐
+  - [可复制文本模板](resources/text-templates.md)
+  - [案例分析](resources/case-studies.md)
+  - [工具推荐](resources/tools-recommendation.md)
 
 ## 快速开始
 
@@ -49,50 +51,44 @@
 5. **想分析数据？** 查看 [analytics/](analytics/)
 6. **找模板？** 查看 [resources/](resources/)
 
-## 适用人群
+## 适合谁
 
-- 有经验的 X 运营者，已熟悉基本操作但遇到增长瓶颈
-- 希望系统化提升运营效果的个人创作者
-- 需要实操指南而非理论讲解的运营者
+- 刚开始学习 X 运营的朋友
+- 想要整理运营思路的小伙伴
+- 喜欢实操型学习笔记的人
 
-## 核心原则
+## 学习心得
 
-1. **实操优先** — 提供具体步骤和可直接使用的模板
-2. **避坑为先** — 在第一时间传递关键避坑知识
-3. **数据驱动** — 基于算法规则优化运营策略
-4. **持续迭代** — 根据平台变化更新内容
+1. **多动手** — 光看不练没用，得实际操作
+2. **避坑优先** — 先知道哪些不能做，再学怎么做
+3. **看数据** — 别凭感觉，用数据说话
+4. **持续学** — 平台规则一直在变，得跟上
 
 ## 更新日志
 
-- 2026/07/07 — 项目初始化，完成 Phase 1 规划
-- 2026/07/07 — 完成 Phase 1：账号起号与定位（5个计划）
-  - 创建项目框架和 README 文件
-  - 创建账号定位指南
-  - 创建个人资料优化指南
-  - 创建前30天运营指南
-  - 创建避坑指南
-- 2026/07/07 — 完成 Phase 2：内容创作体系（5个计划）
-  - 创建推文类型指南
-  - 创建内容创作模板库
-  - 创建发布时间与频率指南
-  - 创建高互动内容公式
-  - 创建标签策略
-- 2026/07/07 — 完成 Phase 3：互动管理与流量增长（4个计划）
-  - 创建评论管理策略
-  - 创建回复模板库
-  - 创建有机增长策略
-  - 创建算法优化指南
-- 2026/07/07 — 完成 Phase 4：数据分析与资源模板（5个计划）
-  - 创建关键指标定义
-  - 创建效果评估框架
-  - 创建可复制文本模板
-  - 创建案例分析
-  - 创建工具推荐
-- 2026/07/07 — 为所有文章添加引用来源，提高内容可信度
-  - 18篇文章添加了参考来源
-  - 每篇文章包含5个权威来源引用
-  - 引用来源包括：Hootsuite, Sprout Social, Buffer, Twitter, Social Media Examiner 等
+详见 [Logs.md](Logs.md)
 
 ---
 
-*本指南持续更新中，欢迎反馈和建议。*
+_持续学习中，有啥想法欢迎交流。_
+
+## 版权说明
+
+本项目内容来源于互联网公开资源，版权归原作者所有。
+
+- 内容仅供参考学习使用，不用于商业用途
+- 如有侵权，请联系删除
+- 感谢所有原创作者的贡献
+
+**参考来源：**
+
+- Hootsuite (https://blog.hootsuite.com)
+- Sprout Social (https://sproutsocial.com)
+- Buffer (https://buffer.com)
+- Twitter/X (https://twitter.com)
+- Social Media Examiner (https://www.socialmediaexaminer.com)
+- Neil Patel (https://neilpatel.com)
+- CoSchedule (https://coschedule.com)
+- HubSpot (https://hubspot.com)
+- Canva (https://canva.com)
+- Later (https://later.com)
