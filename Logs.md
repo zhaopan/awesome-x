@@ -2,6 +2,16 @@
 
 ## 2026/07/12
 
+### 2. 限流机制专题
+
+- 创建限流类型指南（07-rate-limiting/07-01-rate-limit-types.md）
+- 创建信号识别指南（07-rate-limiting/07-02-signal-identification.md）
+- 创建恢复策略指南（07-rate-limiting/07-03-recovery-strategies.md）
+- 创建预防措施指南（07-rate-limiting/07-04-prevention-measures.md）
+- 创建时间周期指南（07-rate-limiting/07-05-time-cycles.md）
+- 创建阈值参考指南（07-rate-limiting/07-06-threshold-reference.md）
+- 创建 README（07-rate-limiting/README.md）
+
 ### 1. 学习总结文档
 
 - 添加 06-resources 学习总结（06-resources/06-99-learning-summary.md）
